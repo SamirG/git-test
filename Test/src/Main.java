@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("Main.main()");
 		System.out.println("Main.main() 1.5");
 		System.out.println("Main.main() 2");
+		System.out.println("Main.main() 2.5");
 
 	}
 
