@@ -12,6 +12,7 @@ public class Main {
 		System.out.println("Main.main() 2.5");
 		System.out.println("Main.main() 2.1");
 		System.out.println("Main.main() 3");
+		System.out.println("Main.main() push test");
 	}
 
 }
